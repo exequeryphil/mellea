@@ -1,3 +1,8 @@
+## Unreleased
+
+### Changed
+* refactor(core): promote `ModelOutputThunk.thinking` to the public reasoning trace field; `ModelOutputThunk._thinking` remains as a deprecated alias for one minor release before removal.
+
 ## [v0.6.0](https://github.com/generative-computing/mellea/releases/tag/v0.6.0) - 2026-05-19
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
